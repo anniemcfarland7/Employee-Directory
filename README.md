@@ -11,6 +11,8 @@ GitHub Pages URL: https://anniemcfarland7.github.io/employee-directory/
 
 ## Preview
 
-The following screenshot demonstrates the sample Fitness Tracker application:
+The following video demonstrates the sample Fitness Tracker application:
 
-![Screenshot](./public/screenshot.png)
+![Screenshot](./public/video.gif)
+
+Video URL: https://drive.google.com/file/d/1AeOiYjHHXkYibYg27SqUqPJR26NbyLmk/view
